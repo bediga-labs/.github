@@ -1,3 +1,5 @@
+![Bediga Labs: AI tools built for Karimnagar first](banner.png)
+
 # Bediga Labs
 
 **AI tools built for Karimnagar first.**
