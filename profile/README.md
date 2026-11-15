@@ -14,7 +14,7 @@ nobody can track, villages that run out of water in May. Each one is built in th
 
 | Product | What it does | Status |
 |---|---|---|
-| **RTI Helper** | Write a correct Right to Information application or first appeal in Telugu or English in 2 minutes; nothing leaves your phone | [Live](https://bediga-labs.github.io/rti-helper/) |
+| **RTI Helper** | A citizen's letters in Telugu or English in 2 minutes: complaint → RTI application → first appeal; nothing leaves your phone | [Live](https://bediga-labs.github.io/rti-helper/) |
 | **Tap-Counter** | One tap per sale for tea stalls and tiffin centres; a cash check every night | [Live phone app](https://bsharan.github.io/tap-counter/) |
 | **Tally Counter, Resurrected** | Tap-Counter rebuilt with Kiro's spec-driven workflow (AWS Kiroween 2026) | [Live](https://bsharan.github.io/tally-counter-resurrected/) |
 | **Tap-Counter Cloud** | Serverless night summary: Lambda, API Gateway, DynamoDB, EventBridge (AWS Weekend Challenge) | [Demo video](https://youtu.be/HOogRyRdMDc) |
