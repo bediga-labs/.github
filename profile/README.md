@@ -10,6 +10,8 @@ Computer Science and Engineering, AWS Certified Machine Learning Engineer – As
 We build small, honest tools for problems people here face every day: shops that sell without bills, public works
 nobody can track, villages that run out of water in May. Each one is built in the open, tested, and measured.
 
+**All tools, in Telugu, in one place: https://bediga-labs.github.io/**
+
 ## Products
 
 | Product | What it does | Status |
