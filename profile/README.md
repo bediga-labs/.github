@@ -14,6 +14,7 @@ nobody can track, villages that run out of water in May. Each one is built in th
 
 | Product | What it does | Status |
 |---|---|---|
+| **Scam Check** | Suspicious call or message? Check it in Telugu in 30 seconds. Lost money? First-hour steps (1930) and a ready police complaint | [Live](https://bediga-labs.github.io/scam-check/) |
 | **RTI Helper** | A citizen's letters in Telugu or English in 2 minutes: complaint → RTI application → first appeal; nothing leaves your phone | [Live](https://bediga-labs.github.io/rti-helper/) |
 | **Tap-Counter** | One tap per sale for tea stalls and tiffin centres; a cash check every night | [Live phone app](https://bsharan.github.io/tap-counter/) |
 | **Tally Counter, Resurrected** | Tap-Counter rebuilt with Kiro's spec-driven workflow (AWS Kiroween 2026) | [Live](https://bsharan.github.io/tally-counter-resurrected/) |
